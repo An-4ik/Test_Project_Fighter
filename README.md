@@ -1,4 +1,4 @@
-#проект созданный кандидатом на роль Junior Unity Developer в рамках тестирования
+# Проект созданный кандидатом на роль Junior Unity Developer в рамках тестирования
 
 архив с ресурсами: https://drive.google.com/file/d/1wPq2HS44X4s_K3I5DQ3r2Mctm1oMPRhD/view
 
